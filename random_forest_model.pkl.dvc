@@ -3,3 +3,4 @@ outs:
   size: 130452
   hash: md5
   path: random_forest_model.pkl
+  none}}
